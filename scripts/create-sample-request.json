@@ -1,0 +1,19 @@
+{
+  "businessName": "Nordic Table",
+  "businessPhone": "+15145550123",
+  "date": "2026-02-21",
+  "timePreferred": "19:30",
+  "partySize": 2,
+  "nameForBooking": "Felix",
+  "constraints": {
+    "timeFlexMinutes": 30,
+    "outdoorPreferred": false,
+    "dietary": [],
+    "maxWaitMinutes": 20
+  },
+  "policy": {
+    "allowAutoConfirm": false,
+    "allowDeposit": false,
+    "requireHumanOnAmbiguity": true
+  }
+}
